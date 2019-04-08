@@ -13,7 +13,7 @@
 
 def translate (string)
  def ordway (word)
-   header=word.match(/^((qu|sch|[^aeuio]){0,3}/).to_s
+   header=word.match(/^(qu|sch|[^aeuio]){0,3}/).to_s
    return word[header.length..-1]+header+"ay"
  end
 
