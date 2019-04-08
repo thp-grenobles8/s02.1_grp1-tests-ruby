@@ -4,6 +4,7 @@ describe "the hello function" do
   it "says hello" do
     expect(hello).to eq("Hello!")
   end
+
 end
 
 describe "the greet function" do
