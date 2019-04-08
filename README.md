@@ -1,3 +1,6 @@
+Projet fait en pair-programing par Florian Chazot et Guillaume Silvent 
+
+
 Small exercices in Ruby -- RSpec 3 Edition
 ==========
 
