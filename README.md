@@ -1,4 +1,4 @@
-Projet fait en pair-programing par Florian Chazot et Guillaume Silvent 
+Projet fait en pair-programing par Florian Chazot, Guillaume Silvent et Tristan Morin
 
 
 Small exercices in Ruby -- RSpec 3 Edition
